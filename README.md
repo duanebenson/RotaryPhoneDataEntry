@@ -1,6 +1,6 @@
 # RotaryPhoneDataEntry
 Code and instructions for converting a rotary phone to a USB numeric data entry
-# Rotary phone "Numberic keypad"
+# Rotary phone "Numeric keypad"
 # by Duane Benson, September, February 2024
 #
 # This configuration uses: 
